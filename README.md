@@ -5,6 +5,7 @@ An update to an existing budget tracker application to allow for offline access 
 The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total will be updated when they're brought back online. This application was deployed to and hosted on Heroku.
 
 ## Live Site Access
+https://calm-falls-17749.herokuapp.com/ 
 
 ## Acceptance Criteria
 - [x] When the user inputs an expense or deposit then they will receive a notification that they have added an expense or deposit
