@@ -23,6 +23,7 @@
     "express": "^4.17.1",
     "mongoose": "^5.5.15",
     "morgan": "^1.9.1",
-    "nodemon": "^2.0.16"
+    "nodemon": "^2.0.16",
+    "webpack-dev-server": "^4.9.2"
   }
 }
