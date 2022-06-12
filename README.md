@@ -11,7 +11,7 @@ The user will be able to add expenses and deposits to their budget with or witho
 - [x] When the user reestablishes an internet connection then the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
 
 ## Demo Screenshot
-![pwa demo screenshot](/public/img/pwa-demo-01.png)
+![pwa demo screenshot](/public/img/Live-Screenshot-pwa.jpg)
 
 ## Functionality
  - IndexedDB adds offline functionality
